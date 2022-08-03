@@ -9,3 +9,5 @@ IPA_BASE_URL = 'host.mydomain.com'
 IPA_USERNAME = 'ipa service account'
 
 IPA_PASSWORD = 'password'
+
+**Created with <3 at Okta** by Pedro Santos (pedro.santos@okta.com)
